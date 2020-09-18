@@ -15,9 +15,6 @@ We thank the Tla'amin Nation and members  Ms. Betty Wilson, Ms. Gail Blaine, and
 To access a demo of these notebooks, please visit the following buttons.
 You will need a Gmail or Outlook account to access the application.
 
-
-<img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/> to launch the notebooks on the Callysto Hub.
-
 <a href="http://tinyurl.com/r3vkdjd" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Atomic motif's: exploring a pattern's smallest unit and geometrical operations
 
 <a href="http://tinyurl.com/y324w8eh" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a> Creating and combining patterns
