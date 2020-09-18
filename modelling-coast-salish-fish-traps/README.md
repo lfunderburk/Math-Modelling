@@ -1,5 +1,7 @@
 # Interactive Notebooks for fish trap modelling
 
+Co-authored with Bryce Haley, Dr. Cedric Chauve and Dr. Veselin Jungic
+
 <a href="http://tinyurl.com/y4yya4cg" target="_blank"><img src="https://raw.githubusercontent.com/callysto/curriculum-notebooks/master/open-in-callysto-button.svg?sanitize=true" width="123" height="24" alt="Open in Callysto"/></a>  
 
 To launch this notebook using the Callysto hub, press the button above.
